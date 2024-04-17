@@ -151,7 +151,7 @@ const Register = () => {
                                 Email
                             </label>
                             <input
-                                type="text"
+                                type="string"
                                 id="email"
                                 ref={emailRef}
                                 autoComplete="off"
